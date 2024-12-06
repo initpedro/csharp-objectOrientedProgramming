@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - C#
 - .NET
 - Git;
-- GitHub.
+- GitHub
 
 ## 💻 Projeto
 
