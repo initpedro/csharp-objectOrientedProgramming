@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - C#
 - .NET
-- Git;
+- Git
 - GitHub.
 
 ## 💻 Projeto
