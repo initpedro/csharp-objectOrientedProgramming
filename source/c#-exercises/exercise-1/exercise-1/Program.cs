@@ -7,7 +7,7 @@ namespace exercise1
         static void Main(string[] args) {
             double xA, xB, xC, yA, yB, yC;
             Console.WriteLine("Entre com as medidas do triângulo X"
-            xA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            xA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture)
             xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             xC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
