@@ -6,7 +6,7 @@ namespace exercise1
     internal class Program {
         static void Main(string[] args) {
             double xA, xB, xC, yA, yB, yC;
-            Console.WriteLine("Entre com as medidas do triângulo X");
+            Console.WriteLine("Entre com as medidas do triângulo X")
             xA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             xC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
