@@ -1,0 +1,14 @@
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\bin\Debug\net8.0\exercise-3.exe
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\bin\Debug\net8.0\exercise-3.deps.json
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\bin\Debug\net8.0\exercise-3.runtimeconfig.json
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\bin\Debug\net8.0\exercise-3.dll
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\bin\Debug\net8.0\exercise-3.pdb
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\exercise-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\exercise-3.AssemblyInfoInputs.cache
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\exercise-3.AssemblyInfo.cs
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\exercise-3.csproj.CoreCompileInputs.cache
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\exercise-3.dll
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\refint\exercise-3.dll
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\exercise-3.pdb
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\exercise-3.genruntimeconfig.cache
+C:\source\c#\Completo\c#-exercises\exercise-3\exercise-3\obj\Debug\net8.0\ref\exercise-3.dll
