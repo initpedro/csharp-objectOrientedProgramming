@@ -1,0 +1,14 @@
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\bin\Debug\net8.0\exercise-4.exe
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\bin\Debug\net8.0\exercise-4.deps.json
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\bin\Debug\net8.0\exercise-4.runtimeconfig.json
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\bin\Debug\net8.0\exercise-4.dll
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\bin\Debug\net8.0\exercise-4.pdb
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\exercise-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\exercise-4.AssemblyInfoInputs.cache
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\exercise-4.AssemblyInfo.cs
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\exercise-4.csproj.CoreCompileInputs.cache
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\exercise-4.dll
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\refint\exercise-4.dll
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\exercise-4.pdb
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\exercise-4.genruntimeconfig.cache
+C:\source\c#\Completo\c#-exercises\exercise-4\exercise-4\obj\Debug\net8.0\ref\exercise-4.dll
