@@ -6,7 +6,7 @@ namespace exercise9 {
     internal class Program {
         static void Main(string[] args) {
             Console.WriteLine("Entre os dados do produto:");
-            Console.Write("Nome: ")
+            Console.Write("Nome: ");
             string nome = Console.ReadLine();
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
