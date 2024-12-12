@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\exercise-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\exercise-10.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\exercise-10.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\exercise-10.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\bin\Debug\net8.0\exercise-10.exe
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\bin\Debug\net8.0\exercise-10.deps.json
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\bin\Debug\net8.0\exercise-10.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\bin\Debug\net8.0\exercise-10.dll
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\bin\Debug\net8.0\exercise-10.pdb
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\exercise-10.dll
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\refint\exercise-10.dll
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\exercise-10.pdb
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\exercise-10.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-10\exercise-10\obj\Debug\net8.0\ref\exercise-10.dll
