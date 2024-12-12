@@ -4,8 +4,8 @@ using System.Globalization;
 
 namespace exercise10 {
     internal class Program {
-        static void Main(string[] args
-            ContaBancaria conta
+        static void Main(string[] args) {
+            ContaBancaria conta;
             Console.Write("Entre com os dados da conta: ");
             int numero = int.Parse(Console.ReadLine());
             Console.Write("Entre o titular da conta: ");
@@ -17,7 +17,8 @@ namespace exercise10 {
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 conta = new ContaBancaria(numero, titular, depositoInicial);
             } else {
-                conta = new ContaBancaria(numero, tular)
+                conta = new ContaBancaria(numero, titular);
+            }
 
             Console.WriteLine("Dados da conta: ");
             Console.WriteLine(conta);
