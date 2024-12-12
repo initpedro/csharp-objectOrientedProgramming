@@ -5,7 +5,7 @@ using System.Globalization;
 namespace exercise10 {
     internal class Program {
         static void Main(string[] args) {
-            ContaBancaria conta;
+            ContaBancaria conta
             Console.Write("Entre com os dados da conta: ");
             int numero = int.Parse(Console.ReadLine());
             Console.Write("Entre o titular da conta: ");
