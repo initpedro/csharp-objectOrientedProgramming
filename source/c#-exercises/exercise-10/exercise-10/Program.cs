@@ -17,7 +17,7 @@ namespace exercise10 {
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 conta = new ContaBancaria(numero, titular, depositoInicial);
             } else {
-                conta = new ContaBancaria(numero, titular);
+                conta = new ContaBancaria(numero, tular);
             }
 
             Console.WriteLine("Dados da conta: ");
