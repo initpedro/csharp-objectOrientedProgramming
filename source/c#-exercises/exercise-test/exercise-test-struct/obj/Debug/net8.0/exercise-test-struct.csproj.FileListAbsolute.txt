@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\exercise-test-struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\exercise-test-struct.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\exercise-test-struct.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\exercise-test-struct.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\bin\Debug\net8.0\exercise-test-struct.exe
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\bin\Debug\net8.0\exercise-test-struct.deps.json
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\bin\Debug\net8.0\exercise-test-struct.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\bin\Debug\net8.0\exercise-test-struct.dll
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\bin\Debug\net8.0\exercise-test-struct.pdb
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\exercise-test-struct.dll
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\refint\exercise-test-struct.dll
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\exercise-test-struct.pdb
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\exercise-test-struct.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\obj\Debug\net8.0\ref\exercise-test-struct.dll

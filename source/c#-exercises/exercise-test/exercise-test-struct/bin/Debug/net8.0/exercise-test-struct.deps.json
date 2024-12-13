@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exercise-test-struct/1.0.0": {
+        "runtime": {
+          "exercise-test-struct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercise-test-struct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
