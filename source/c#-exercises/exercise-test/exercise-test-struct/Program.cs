@@ -37,5 +37,4 @@ namespace exercisetest {
             // Jogou 10 pq o y não é nulo, e ele já valia 10
             Console.WriteLine(b);
         }
-    }
-}
+    
