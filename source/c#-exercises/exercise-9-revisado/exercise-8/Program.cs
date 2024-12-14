@@ -9,7 +9,7 @@ namespace exercise9 {
 
             p.Nome = "TV 4K";
             Console.WriteLine(p.Preco);
-            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Nome)
         }
     }
 }
