@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿using Sys
 namespace exercise20
 {
     internal class Program {
