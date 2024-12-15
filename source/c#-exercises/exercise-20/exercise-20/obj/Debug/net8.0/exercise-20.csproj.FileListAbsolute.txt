@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\bin\Debug\net8.0\exercise-20.exe
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\bin\Debug\net8.0\exercise-20.deps.json
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\bin\Debug\net8.0\exercise-20.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\bin\Debug\net8.0\exercise-20.dll
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\bin\Debug\net8.0\exercise-20.pdb
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\exercise-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\exercise-20.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\exercise-20.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\exercise-20.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\exercise-20.dll
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\refint\exercise-20.dll
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\exercise-20.pdb
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\exercise-20.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-20\exercise-20\obj\Debug\net8.0\ref\exercise-20.dll
