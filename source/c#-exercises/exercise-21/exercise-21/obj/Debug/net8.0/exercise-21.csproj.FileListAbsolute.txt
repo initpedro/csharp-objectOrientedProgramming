@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\bin\Debug\net8.0\exercise-21.exe
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\bin\Debug\net8.0\exercise-21.deps.json
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\bin\Debug\net8.0\exercise-21.runtimeconfig.json
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\bin\Debug\net8.0\exercise-21.dll
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\bin\Debug\net8.0\exercise-21.pdb
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\exercise-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\exercise-21.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\exercise-21.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\exercise-21.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\exercise-21.dll
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\refint\exercise-21.dll
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\exercise-21.pdb
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\exercise-21.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\exercise-21\exercise-21\obj\Debug\net8.0\ref\exercise-21.dll
