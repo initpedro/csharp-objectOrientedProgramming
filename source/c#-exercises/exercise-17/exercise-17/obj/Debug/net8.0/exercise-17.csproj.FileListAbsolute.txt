@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\exercise-17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\exercise-17.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\exercise-17.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\exercise-17.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\bin\Debug\net8.0\exercise-17.exe
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\bin\Debug\net8.0\exercise-17.deps.json
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\bin\Debug\net8.0\exercise-17.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\bin\Debug\net8.0\exercise-17.dll
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\bin\Debug\net8.0\exercise-17.pdb
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\exercise-17.dll
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\refint\exercise-17.dll
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\exercise-17.pdb
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\exercise-17.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-17\exercise-17\obj\Debug\net8.0\ref\exercise-17.dll
