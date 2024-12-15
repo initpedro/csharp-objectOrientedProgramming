@@ -7,7 +7,7 @@ namespace exercise20
             double[,] mat = new double[2, 4];
 
             // Elementos na mat
-            Console.WriteLine(mat.Leng
+            Console.WriteLine(mat.
 
             // Quanto é a primeira dimensão da matriz (linhas) e rcorre as col
             Console.WriteLine(mat.Rank);
