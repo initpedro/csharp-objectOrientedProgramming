@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\bin\Debug\net8.0\exercise-13.exe
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\bin\Debug\net8.0\exercise-13.deps.json
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\bin\Debug\net8.0\exercise-13.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\bin\Debug\net8.0\exercise-13.dll
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\bin\Debug\net8.0\exercise-13.pdb
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\exercise-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\exercise-13.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\exercise-13.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\exercise-13.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\exercise-13.dll
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\refint\exercise-13.dll
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\exercise-13.pdb
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\exercise-13.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-13\exercise-13\obj\Debug\net8.0\ref\exercise-13.dll
