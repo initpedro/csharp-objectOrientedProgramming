@@ -12,7 +12,7 @@ namespace exercise20
             // Quanto é a primeira dimensão da matriz (linhas) e rcorre as colunas
             Console.WriteLine(mat.Rank);
 
-            // Quantidade de linhas
+            // Quantidade de linh
             Console.WriteLine(mat.GetLength(0));
 
             // Segunda dimensão, quantidade de colunas
