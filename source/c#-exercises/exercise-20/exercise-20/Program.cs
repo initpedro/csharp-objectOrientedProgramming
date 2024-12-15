@@ -3,7 +3,7 @@
 namespace exercise20
 {
     internal class Program {
-        static void Main(string[] arg
+        static void Main(string[]
             double[,] mat = new double[2, 4];
 
             // Elementos na mat
