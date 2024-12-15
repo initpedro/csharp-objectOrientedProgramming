@@ -9,7 +9,7 @@ namespace exercise20
             // Elementos na matriz
             Console.WriteLine(mat.Length);
 
-            // Quanto é a primeira dimensão da matriz (linhas) e percorre as colunas
+            // Quanto é a primeira dimensão da matriz (linhas) e rcorre as colunas
             Console.WriteLine(mat.Rank);
 
             // Quantidade de linhas
