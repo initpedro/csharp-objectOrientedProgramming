@@ -10,6 +10,7 @@ namespace exercise17 {
 
             Console.WriteLine("-------------------");
 
+            // Lê-se: para cada string "apelido" contido no "vetor"
             foreach (string obj in vect) {
                 Console.WriteLine(obj);
             }
