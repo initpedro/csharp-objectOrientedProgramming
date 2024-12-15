@@ -4,7 +4,7 @@ namespace exercise20
 {
     internal class Program {
         static void Main(stri
-            double[,] mat = new double[2, 4];
+            double[,] mat = new double[2,
 
             // Elementos na mat
             Console.WriteLine(mat.
