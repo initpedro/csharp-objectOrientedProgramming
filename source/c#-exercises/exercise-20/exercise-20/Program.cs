@@ -13,7 +13,7 @@ namespace exercise20
             Console.WriteLine(mat.Rank);
 
             // Quantidade de linh
-            Console.WriteLine(mat.GetLength(0));
+            Console.WriteLine(mat.GetLength(
 
             // Segunda dimensão, quantidade de col
             Console.WriteLine(mat.GetLength(1));
