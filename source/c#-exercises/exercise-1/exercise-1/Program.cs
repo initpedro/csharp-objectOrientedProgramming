@@ -14,8 +14,7 @@ namespace exercise1
             Console.WriteLine("Entre com as medidas do triângulo Y");
             yA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             yB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
+            yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture)
             double p = (xA + xB + xC) / 2;
             double areaX = Math.Sqrt(p * (p - xA) * (p - xB) * (p - xC));
 
