@@ -4,7 +4,7 @@ namespace exercise22
 {
     internal class Program {
         static void Main(string[] args) {
-            string original = "abcde FGHIJ ABC abc DEFG     ";
+            string original = "abcde FGHIJ ABC abc DEFG  
 
             // Tudo maiúsculo
             string s1 = original.ToUpper();
