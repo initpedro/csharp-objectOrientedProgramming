@@ -4,13 +4,13 @@ namespace exercise22
 {
     internal class Program {
         static void Main(string[] args) {
-            string original = "abcde FGHIJ ABC abc
+            string original = "abcde FGHIJ ABC abc DEFG     ";
 
             // Tudo maiúsculo
             string s1 = original.ToUpper();
 
             // Tudo minúsculo
-            string s2 = original.ToLower(
+            string s2 = original.ToLower();
 
             // Tirar todos espaçamentos
             string s3 = original.Trim();
