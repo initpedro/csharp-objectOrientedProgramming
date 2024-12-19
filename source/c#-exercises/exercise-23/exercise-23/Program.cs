@@ -7,7 +7,7 @@ namespace exercise23 {
 
             // Devolve o instante atual
             // DateTime d1 = DateTime.Now;
-            // Console.WriteLine
+            // Console.WriteLi
             // Console.WriteLine(d1.Ticks);
 
             //DateTime d1 = new DateTime(2018, 11, 25);
