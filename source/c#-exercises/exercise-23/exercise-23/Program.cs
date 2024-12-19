@@ -17,8 +17,7 @@ namespace exercise23 {
             //Console.WriteLine(d2);
 
             //DateTime d3 = new DateTime(2018, 11, 25, 20, 45, 03, 500);
-            //Console.WriteLine(d3);
-
+            //Console.WriteLine(d3
             //DateTime d4 = DateTime.Now;
             //Console.WriteLine(d4);
 
