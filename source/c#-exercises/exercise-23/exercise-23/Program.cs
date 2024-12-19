@@ -5,7 +5,7 @@ namespace exercise23 {
     internal class Program {
         static void Main(string[] args) {
 
-            // Devolve o instante atual
+            // Devolve o instante atu
             // DateTime d1 = DateTime.Now;
             // Console.WriteLi
             // Console.WriteLine(d1.Ticks);
