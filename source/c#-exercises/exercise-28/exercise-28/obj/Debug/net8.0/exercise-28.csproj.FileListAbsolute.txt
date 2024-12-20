@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\bin\Debug\net8.0\exercise-28.exe
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\bin\Debug\net8.0\exercise-28.deps.json
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\bin\Debug\net8.0\exercise-28.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\bin\Debug\net8.0\exercise-28.dll
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\bin\Debug\net8.0\exercise-28.pdb
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\exercise-28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\exercise-28.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\exercise-28.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\exercise-28.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\exercise-28.dll
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\refint\exercise-28.dll
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\exercise-28.pdb
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\exercise-28.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-28\exercise-28\obj\Debug\net8.0\ref\exercise-28.dll
