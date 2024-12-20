@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\bin\Debug\net8.0\exercise-27.exe
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\bin\Debug\net8.0\exercise-27.deps.json
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\bin\Debug\net8.0\exercise-27.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\bin\Debug\net8.0\exercise-27.dll
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\bin\Debug\net8.0\exercise-27.pdb
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\exercise-27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\exercise-27.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\exercise-27.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\exercise-27.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\exercise-27.dll
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\refint\exercise-27.dll
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\exercise-27.pdb
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\exercise-27.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-27\exercise-27\obj\Debug\net8.0\ref\exercise-27.dll
