@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\bin\Debug\net8.0\exercise-24.exe
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\bin\Debug\net8.0\exercise-24.deps.json
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\bin\Debug\net8.0\exercise-24.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\bin\Debug\net8.0\exercise-24.dll
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\bin\Debug\net8.0\exercise-24.pdb
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\exercise-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\exercise-24.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\exercise-24.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\exercise-24.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\exercise-24.dll
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\refint\exercise-24.dll
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\exercise-24.pdb
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\exercise-24.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-24\exercise-24\obj\Debug\net8.0\ref\exercise-24.dll
