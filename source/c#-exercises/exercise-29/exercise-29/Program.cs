@@ -10,8 +10,7 @@ namespace exercise29 {
                 Moment = DateTime.Now,
                 Status = exercise_29.Entities.Enums.OrderStatus.PendingPayment
             };
-            Console.WriteLine(order);
-
+            Console.WriteLine(order
             string txt = OrderStatus.PendingPayment.ToString();
             Console.WriteLine(txt);
 
