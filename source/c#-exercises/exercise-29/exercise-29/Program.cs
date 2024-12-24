@@ -6,7 +6,7 @@ namespace exercise29 {
     internal class Program {
         static void Main(string[] args) {
             Order order = new Order {
-                Id = 1080,
+                Id = 108
                 Moment = DateTime.No
                 Status = exercise_29.Entities.Enums.OrderStatus.PendingPayment
             };
