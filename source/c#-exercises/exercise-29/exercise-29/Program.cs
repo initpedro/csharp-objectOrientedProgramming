@@ -6,15 +6,16 @@ namespace exercise29 {
     internal class Program {
         static void Main(string[] args) {
             Order order = new Order {
-                Id = 108
-                Moment = DateTime.No
+                Id = 1080,
+                Moment = DateTime.Now,
                 Status = exercise_29.Entities.Enums.OrderStatus.PendingPayment
-        
-            Console.WriteLine(order)
+            };
+            Console.WriteLine(order);
+
             string txt = OrderStatus.PendingPayment.ToString();
             Console.WriteLine(txt);
 
-            OrderStatus os = Enum.Parse<OrderStatus>("Delivered"
+            OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
             Console.WriteLine(os);
         }
     }
