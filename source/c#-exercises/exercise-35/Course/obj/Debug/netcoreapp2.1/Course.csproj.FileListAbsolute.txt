@@ -1,0 +1,14 @@
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.csproj.AssemblyReference.cache
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.sourcelink.json
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.pdb
+C:\source\c#\Completo\c#-exercises\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.genruntimeconfig.cache
