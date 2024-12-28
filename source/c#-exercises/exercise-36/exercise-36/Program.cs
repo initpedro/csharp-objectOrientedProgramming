@@ -12,8 +12,7 @@ namespace exercise36 {
             int n = int.Parse(Console.ReadLine());
             for (int i = 1; i <= n; i
                 Console.WriteLine($"Shape #{i} data:");
-                Console.Write($"Rectangle or Circle (r/c)? ");
-                char ch = char.Parse(Console.ReadLine());
+                Console.Write($"Rectangle or Circle (r/c)? ")
                 Console.Write($"Color (Black/Blue/Red): ");
                 Color color = Enum.Parse<Color>(Console.ReadLine());
                 if (ch == 'r') {
