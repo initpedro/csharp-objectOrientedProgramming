@@ -8,12 +8,12 @@ namespace exercise34 {
         static void Main(string[] args) {
             List<Product> list = new List<Product>();
 
-            Console.Write("Enter the number of products: 
+            Console.Write("Enter the number of products: ");
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 1; i <= n; i++) {
                 Console.WriteLine($"Product #{i} data:");
-                Console.Write("Common, used or imported (c/u/i)? 
+                Console.Write("Common, used or imported (c/u/i)? ");
                 char type = char.Parse(Console.ReadLine());
                 Console.Write("Name: ");
                 String name = Console.ReadLine();
