@@ -13,7 +13,7 @@ namespace exercise34 {
 
             for (int i = 1; i <= n; i++) {
                 Console.WriteLine($"Product #{i} data:");
-                Console.Write("Common, used or imported (c/u/i)? ");
+                Console.Write("Common, used or imported (c/u/i)? 
                 char type = char.Parse(Console.ReadLine());
                 Console.Write("Name: ");
                 String name = Console.ReadLine();
