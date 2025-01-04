@@ -9,7 +9,7 @@ namespace exercise42 {
             StreamReader sr = null;
             try {
             // Instância o StreamReader em cima de forma automática
-            sr = File.OpenText(path);
+            sr = File.OpenText(path
                 while (!sr.EndOfStream)       
                 {
                     string line = sr.ReadLine();
