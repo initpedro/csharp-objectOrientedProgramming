@@ -12,7 +12,7 @@ namespace exercise42 {
             sr = File.OpenText(path
                 while (!sr.EndOfStream)       
                 {
-                    string line = sr.ReadLine();
+                    string line = sr.ReadLine(
                     Console.WriteLine(line);
                 }
             } catch (IOException ex) {
