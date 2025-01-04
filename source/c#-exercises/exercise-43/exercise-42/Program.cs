@@ -9,10 +9,10 @@ namespace exercise42 {
             StreamReader sr = null;
             try {
             // Instância o StreamReader em cima de forma automática
-            sr = File.OpenText(pa
+            sr = File.OpenText(path);
                 while (!sr.EndOfStream)       
                 {
-                    string line = sr.ReadLine(
+                    string line = sr.ReadLine();
                     Console.WriteLine(line);
                 }
             } catch (IOException ex) {
