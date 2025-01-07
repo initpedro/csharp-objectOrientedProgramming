@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\bin\Debug\net8.0\exercise-46.exe
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\bin\Debug\net8.0\exercise-46.deps.json
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\bin\Debug\net8.0\exercise-46.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\bin\Debug\net8.0\exercise-46.dll
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\bin\Debug\net8.0\exercise-46.pdb
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\exercise-46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\exercise-46.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\exercise-46.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\exercise-46.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\exercise-46.dll
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\refint\exercise-46.dll
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\exercise-46.pdb
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\exercise-46.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-46\exercise-46\obj\Debug\net8.0\ref\exercise-46.dll
