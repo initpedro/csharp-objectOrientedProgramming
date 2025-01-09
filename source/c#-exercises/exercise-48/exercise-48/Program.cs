@@ -6,7 +6,7 @@ using exercise_48.Services;
 namespace exercise48 {
     internal class Program {
         static void Main(string[] args) {
-            Console.Write($"Enter rental data: ");
+            Console.WriteLine($"Enter rental data: ");
             Console.Write($"Car Model: ");
             string model = Console.ReadLine();
 
