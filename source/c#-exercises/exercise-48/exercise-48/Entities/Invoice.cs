@@ -14,5 +14,9 @@ namespace exercise_48.Entities {
             get { return BasicPayment + Tax; 
             }
         }
+
+        public override string ToString() {
+            return $"Basic payment: {BasicPayment.ToString("F2", CultureInfo.InvariantCulture)} \nTax: {Tax.ToString("F2", CultureInfo.InvariantCulture)} \nTotal payment: {TotalPayment.ToString("F2", CultureInfo.InvariantCulture)}";
+        }
     }
 }
