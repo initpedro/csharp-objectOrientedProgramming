@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = exercise_test_struct
-build_property.ProjectDir = C:\Users\Pedro\Desktop\exercise-test-struct\exercise-test-struct\
+build_property.ProjectDir = C:\Users\Pedro\Source\Repos\pedrowpy\udemy_c-sharp-intermediate\source\c#-exercises\exercise-test\exercise-test-struct\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
