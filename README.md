@@ -19,8 +19,8 @@ Escolhi o C# por ser uma linguagem versátil e amplamente utilizada em diversas 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- C#
-- .NET
+- C#;
+- .NET;
 - Git;
 - GitHub.
 
