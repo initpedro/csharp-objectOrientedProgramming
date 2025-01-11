@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using exercise_48.Entities;
+﻿using exercise_48.Entities;
 
 namespace exercise_48.Services {
     internal class RentalService {
