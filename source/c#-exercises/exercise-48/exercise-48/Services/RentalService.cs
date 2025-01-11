@@ -17,6 +17,7 @@ namespace exercise_48.Services {
             TimeSpan duration = carRental.Finish.Subtract(carRental.Start);
             double basicPayment = 0;
             if (duration.TotalHours <= 12.0) {
+
                 // Arredondar para cima com o Math.Ceiling
                 basicPayment = PricePerHour * Math.Ceiling(duration.TotalHours);
             } else {
