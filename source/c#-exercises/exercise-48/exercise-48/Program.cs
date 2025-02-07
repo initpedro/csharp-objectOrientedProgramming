@@ -19,7 +19,7 @@ namespace exercise48 {
             double hour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write($"Enter price per day: ");
             double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
+            
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
             RentalService rentalServcice = new RentalService(hour, day, new BrazilTaxService());
             rentalServcice.ProcessInvoice(carRental);
