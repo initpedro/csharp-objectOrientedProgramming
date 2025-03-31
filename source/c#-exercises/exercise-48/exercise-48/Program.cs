@@ -23,7 +23,6 @@ namespace exercise48 {
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
             
             RentalService rentalServcice = new RentalService(hour, day, new BrazilTaxService());
-            
             rentalServcice.ProcessInvoice(carRental);
             Console.Write($"INVOICE: ");
             Console.WriteLine(carRental.Invoice);
