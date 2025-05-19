@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Course
-build_property.ProjectDir = C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-35\Course\
+build_property.ProjectDir = C:\Users\pedro\source\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-35\Course\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
