@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\bin\Debug\net8.0\exercise-61.exe
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\bin\Debug\net8.0\exercise-61.deps.json
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\bin\Debug\net8.0\exercise-61.runtimeconfig.json
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\bin\Debug\net8.0\exercise-61.dll
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\bin\Debug\net8.0\exercise-61.pdb
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\exercise-61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\exercise-61.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\exercise-61.AssemblyInfo.cs
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\exercise-61.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\exercise-61.sourcelink.json
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\exercise-61.dll
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\refint\exercise-61.dll
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\exercise-61.pdb
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\exercise-61.genruntimeconfig.cache
+C:\Users\pedro\source\repos\initpedro\csharp-objectOrientedProgramming\source\c#-exercises\exercise-61\exercise-61\obj\Debug\net8.0\ref\exercise-61.dll
